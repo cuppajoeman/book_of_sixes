@@ -1,0 +1,6 @@
+[submodule "scripts/fast-html"]
+	path = scripts/fast-html
+	url = git@github.com:simple-web-tools/fast-html.git
+[submodule "html/cjm-css"]
+	path = html/cjm-css
+	url = git@github.com:cuppajoeman/cjm-css.git
